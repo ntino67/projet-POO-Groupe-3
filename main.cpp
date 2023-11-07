@@ -2,7 +2,7 @@
 
 int main()
 {
-    char test[] = {"Hello World"};
+    char test[17] = {"Hello World"};
     std::cout<< test <<std::endl;
     return 0;
 }
